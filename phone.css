@@ -1,0 +1,83 @@
+.buttons{
+    /* display: none; */
+    height: 220px;
+    width: 445px;
+}
+#btn{
+    margin-top: 325px;
+}
+.grid{
+    overflow: auto;
+    /* display: none; */
+}
+#verify{
+    /* display: none; */
+    font-size: 12px;
+    margin-left: 70px;
+    font-weight: bolder;
+    background-color: rgb(196, 196, 196);
+    color: black;
+}
+#submit{
+    /* display: none; */
+    font-size: 12px;
+    margin-left: 100px;
+    font-weight: bolder;
+    background-color: rgb(196, 196, 196);
+    color: black;
+
+}
+#timer{
+    font-size: 40px;
+}
+.heading{
+    height: 40px;
+    font-size: large;
+    margin-left: -75px;
+}
+#controlButton{
+    font-size: 15px;
+}
+.fa{
+    font-size: small;
+}
+.timerBlock{
+    margin-top: -260px;
+    margin-left: 185px;
+}
+#b1{
+    height: 40px;
+    width: 180px;
+}
+#b2{
+    height: 40px;
+    width: 180px;
+    
+}
+#b3{
+    height: 40px;
+    width: 180px;
+}
+#b4{
+    height: 40px;
+    width: 180px;
+}
+#b5{
+    height: 40px;
+    width: 180px;
+}
+.number{
+    font-size: small;
+    margin-top: -15px;
+}
+.name{
+    font-size: 10px;
+    text-align: left;
+    flex: 50%;
+    margin-top: -10px;
+}
+body{
+    width: 100%;
+    max-height: max-content;
+    
+}
